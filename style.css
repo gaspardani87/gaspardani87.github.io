@@ -1,0 +1,73 @@
+body {
+    background-image: url(images/blurry-gradient-haikei.png);
+    background-size: cover;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+li{
+    display: inline-block;
+    padding: 15px;
+}
+
+ul{
+    font-weight: 500;
+    background-color: #680d0d;
+    text-align: center;
+    border-radius: 10px;
+    width: 50%;
+    margin: 0 auto;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+h1,h2{
+    text-align: center;
+    color: white;
+}
+
+#countdown{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    font-weight: 500;
+}
+div{
+    background-color: #680d0d;
+    padding: 5px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 250px;
+    margin-right: 250px;
+    text-align: center;
+}
+
+img{
+    width: 10%;
+    height: 10%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0px;
+}
+
+.tenor-gif-embed{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.gif{
+    margin-left: 450px;
+    margin-right: 450px;
+}
+iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
