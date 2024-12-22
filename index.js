@@ -19,5 +19,3 @@ function updateCountdown() {
 
 const interval = setInterval(updateCountdown, 1000);
 
-const audio = document.getElementById('audio');
-audio.volume = 0.2;
